@@ -1,2 +1,2 @@
-# Ambientes-de-Desenvolvimento-Uma-introdu-o
+# Ambientes de Desenvolvimento: React, Vite e Vue.
 Atividade da Faculdade, Página super simples.
