@@ -1,0 +1,9 @@
+.carousel-caption h5 {
+    font-size: 80px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.carousel-control-prev .carousel-control-next {
+    box-shadow: black;
+}
